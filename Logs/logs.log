@@ -1,0 +1,160 @@
+01-26-2025 09:54:45 AM - custom_logger1 - test_login.py | INFO : ************ Test001Login ************
+
+01-26-2025 09:54:45 AM - custom_logger1 - test_login.py | INFO : ************ test_login_page_title STARTED ************
+01-26-2025 09:54:47 AM - custom_logger1 - test_login.py | INFO : ************ test_login_page_title PASSED ************
+01-26-2025 09:54:47 AM - custom_logger1 - test_login.py | INFO : ************ test_login_positive STARTED ************
+01-26-2025 09:54:49 AM - custom_logger1 - test_login.py | INFO : ************ test_login_positive PASSED ************
+01-26-2025 09:54:49 AM - custom_logger1 - test_login.py | INFO : ************ test_negative_username STARTED ************
+01-26-2025 09:54:49 AM - custom_logger1 - test_login.py | INFO : ************ test_negative_username PASSED ************
+01-26-2025 09:54:49 AM - custom_logger2 - test_login.py | INFO : ************ Test002Login ************
+
+01-26-2025 09:54:49 AM - custom_logger2 - test_login.py | INFO : ************ test_login_page_title2 STARTED ************
+01-26-2025 09:54:50 AM - custom_logger2 - test_login.py | INFO : ************ test_login_page_title2 PASSED ************
+01-26-2025 09:54:50 AM - custom_logger2 - test_login.py | INFO : ************ test_login_positive2 STARTED ************
+01-26-2025 09:54:51 AM - custom_logger2 - test_login.py | INFO : ************ test_login_positive2 PASSED ************
+01-26-2025 09:54:51 AM - custom_logger2 - test_login.py | INFO : ************ test_negative_username2 STARTED ************
+01-26-2025 09:54:51 AM - custom_logger2 - test_login.py | INFO : ************ test_negative_username2 PASSED ************
+01-26-2025 09:59:07 AM - custom_logger1 - test_login.py | INFO : ************ Test001Login ************
+
+01-26-2025 09:59:07 AM - custom_logger1 - test_login.py | INFO : ************ test_login_page_title STARTED ************
+01-26-2025 09:59:09 AM - custom_logger1 - test_login.py | INFO : ************ test_login_page_title PASSED ************
+01-26-2025 09:59:12 AM - custom_logger1 - test_login.py | INFO : ************ test_login_positive STARTED ************
+01-26-2025 09:59:16 AM - custom_logger1 - test_login.py | INFO : ************ test_login_positive PASSED ************
+01-26-2025 09:59:19 AM - custom_logger1 - test_login.py | INFO : ************ test_negative_username STARTED ************
+01-26-2025 09:59:21 AM - custom_logger1 - test_login.py | INFO : ************ test_negative_username PASSED ************
+01-26-2025 09:59:25 AM - custom_logger2 - test_login.py | INFO : ************ Test002Login ************
+
+01-26-2025 09:59:25 AM - custom_logger2 - test_login.py | INFO : ************ test_login_page_title2 STARTED ************
+01-26-2025 09:59:26 AM - custom_logger2 - test_login.py | INFO : ************ test_login_page_title2 PASSED ************
+01-26-2025 09:59:30 AM - custom_logger2 - test_login.py | INFO : ************ test_login_positive2 STARTED ************
+01-26-2025 09:59:33 AM - custom_logger2 - test_login.py | INFO : ************ test_login_positive2 PASSED ************
+01-26-2025 09:59:37 AM - custom_logger2 - test_login.py | INFO : ************ test_negative_username2 STARTED ************
+01-26-2025 09:59:38 AM - custom_logger2 - test_login.py | INFO : ************ test_negative_username2 PASSED ************
+01-26-2025 10:01:39 AM - custom_logger2 - test_login.py | INFO : ************ test_negative_username2 STARTED ************
+01-26-2025 10:01:39 AM - custom_logger2 - test_login.py | INFO : ************ test_login_positive2 STARTED ************
+01-26-2025 10:01:40 AM - custom_logger1 - test_login.py | INFO : ************ test_login_positive STARTED ************
+01-26-2025 10:01:40 AM - custom_logger1 - test_login.py | INFO : ************ test_negative_username STARTED ************
+01-26-2025 10:01:40 AM - custom_logger2 - test_login.py | INFO : ************ Test002Login ************
+
+01-26-2025 10:01:40 AM - custom_logger2 - test_login.py | INFO : ************ test_login_page_title2 STARTED ************
+01-26-2025 10:01:41 AM - custom_logger1 - test_login.py | INFO : ************ Test001Login ************
+
+01-26-2025 10:01:41 AM - custom_logger1 - test_login.py | INFO : ************ test_login_page_title STARTED ************
+01-26-2025 10:01:41 AM - custom_logger2 - test_login.py | INFO : ************ test_negative_username2 PASSED ************
+01-26-2025 10:01:42 AM - custom_logger2 - test_login.py | INFO : ************ test_login_page_title2 PASSED ************
+01-26-2025 10:01:42 AM - custom_logger1 - test_login.py | INFO : ************ test_negative_username PASSED ************
+01-26-2025 10:01:42 AM - custom_logger1 - test_login.py | INFO : ************ test_login_page_title PASSED ************
+01-26-2025 10:01:43 AM - custom_logger1 - test_login.py | INFO : ************ test_login_positive PASSED ************
+01-26-2025 10:01:43 AM - custom_logger2 - test_login.py | INFO : ************ test_login_positive2 PASSED ************
+01-26-2025 10:02:18 AM - custom_logger2 - test_login.py | INFO : ************ test_negative_username2 STARTED ************
+01-26-2025 10:02:18 AM - custom_logger1 - test_login.py | INFO : ************ test_login_positive STARTED ************
+01-26-2025 10:02:18 AM - custom_logger2 - test_login.py | INFO : ************ test_login_positive2 STARTED ************
+01-26-2025 10:02:19 AM - custom_logger1 - test_login.py | INFO : ************ Test001Login ************
+
+01-26-2025 10:02:19 AM - custom_logger1 - test_login.py | INFO : ************ test_login_page_title STARTED ************
+01-26-2025 10:02:19 AM - custom_logger2 - test_login.py | INFO : ************ Test002Login ************
+
+01-26-2025 10:02:19 AM - custom_logger2 - test_login.py | INFO : ************ test_login_page_title2 STARTED ************
+01-26-2025 10:02:20 AM - custom_logger1 - test_login.py | INFO : ************ test_negative_username STARTED ************
+01-26-2025 10:02:20 AM - custom_logger2 - test_login.py | INFO : ************ test_negative_username2 PASSED ************
+01-26-2025 10:02:21 AM - custom_logger1 - test_login.py | INFO : ************ test_login_page_title PASSED ************
+01-26-2025 10:02:21 AM - custom_logger2 - test_login.py | INFO : ************ test_login_page_title2 PASSED ************
+01-26-2025 10:02:21 AM - custom_logger1 - test_login.py | INFO : ************ test_login_positive PASSED ************
+01-26-2025 10:02:21 AM - custom_logger1 - test_login.py | INFO : ************ test_negative_username PASSED ************
+01-26-2025 10:02:22 AM - custom_logger2 - test_login.py | INFO : ************ test_login_positive2 PASSED ************
+01-26-2025 10:03:53 AM - custom_logger2 - test_login.py | INFO : ************ test_login_positive2 STARTED ************
+01-26-2025 10:03:53 AM - custom_logger1 - test_login.py | INFO : ************ Test001Login ************
+
+01-26-2025 10:03:53 AM - custom_logger1 - test_login.py | INFO : ************ test_login_page_title STARTED ************
+01-26-2025 10:03:53 AM - custom_logger1 - test_login.py | INFO : ************ test_negative_username STARTED ************
+01-26-2025 10:03:54 AM - custom_logger1 - test_login.py | INFO : ************ test_login_page_title PASSED ************
+01-26-2025 10:03:55 AM - custom_logger1 - test_login.py | INFO : ************ test_negative_username PASSED ************
+01-26-2025 10:03:56 AM - custom_logger2 - test_login.py | INFO : ************ test_login_positive2 PASSED ************
+01-26-2025 10:03:58 AM - custom_logger1 - test_login.py | INFO : ************ test_login_positive STARTED ************
+01-26-2025 10:03:59 AM - custom_logger2 - test_login.py | INFO : ************ Test002Login ************
+
+01-26-2025 10:03:59 AM - custom_logger2 - test_login.py | INFO : ************ test_login_page_title2 STARTED ************
+01-26-2025 10:04:00 AM - custom_logger2 - test_login.py | INFO : ************ test_negative_username2 STARTED ************
+01-26-2025 10:04:00 AM - custom_logger2 - test_login.py | INFO : ************ test_login_page_title2 PASSED ************
+01-26-2025 10:04:01 AM - custom_logger1 - test_login.py | INFO : ************ test_login_positive PASSED ************
+01-26-2025 10:04:02 AM - custom_logger2 - test_login.py | INFO : ************ test_negative_username2 PASSED ************
+01-26-2025 10:09:57 AM - custom_logger1 - test_login.py | INFO : ************ test_negative_username STARTED ************
+01-26-2025 10:09:57 AM - custom_logger2 - test_login.py | INFO : ************ test_login_positive2 STARTED ************
+01-26-2025 10:09:58 AM - custom_logger1 - test_login.py | INFO : ************ test_negative_username PASSED ************
+01-26-2025 10:09:58 AM - custom_logger1 - test_login.py | INFO : ************ Test001Login ************
+
+01-26-2025 10:09:58 AM - custom_logger1 - test_login.py | INFO : ************ test_login_page_title STARTED ************
+01-26-2025 10:10:00 AM - custom_logger2 - test_login.py | INFO : ************ test_login_positive2 PASSED ************
+01-26-2025 10:10:00 AM - custom_logger2 - test_login.py | INFO : ************ test_negative_username2 STARTED ************
+01-26-2025 10:10:00 AM - custom_logger1 - test_login.py | INFO : ************ test_login_page_title PASSED ************
+01-26-2025 10:10:00 AM - custom_logger1 - test_login.py | INFO : ************ test_login_positive STARTED ************
+01-26-2025 10:10:00 AM - custom_logger2 - test_login.py | INFO : ************ test_negative_username2 PASSED ************
+01-26-2025 10:10:02 AM - custom_logger1 - test_login.py | INFO : ************ test_login_positive PASSED ************
+01-26-2025 10:10:02 AM - custom_logger2 - test_login.py | INFO : ************ Test002Login ************
+
+01-26-2025 10:10:02 AM - custom_logger2 - test_login.py | INFO : ************ test_login_page_title2 STARTED ************
+01-26-2025 10:10:04 AM - custom_logger2 - test_login.py | INFO : ************ test_login_page_title2 PASSED ************
+01-26-2025 10:11:32 AM - custom_logger2 - test_login.py | INFO : ************ test_negative_username2 STARTED ************
+01-26-2025 10:11:32 AM - custom_logger2 - test_login.py | INFO : ************ test_login_positive2 STARTED ************
+01-26-2025 10:11:33 AM - custom_logger1 - test_login.py | INFO : ************ Test001Login ************
+
+01-26-2025 10:11:33 AM - custom_logger1 - test_login.py | INFO : ************ test_login_page_title STARTED ************
+01-26-2025 10:11:33 AM - custom_logger1 - test_login.py | INFO : ************ test_login_positive STARTED ************
+01-26-2025 10:11:33 AM - custom_logger1 - test_login.py | INFO : ************ test_negative_username STARTED ************
+01-26-2025 10:11:34 AM - custom_logger2 - test_login.py | INFO : ************ test_negative_username2 PASSED ************
+01-26-2025 10:11:34 AM - custom_logger2 - test_login.py | INFO : ************ Test002Login ************
+
+01-26-2025 10:11:34 AM - custom_logger2 - test_login.py | INFO : ************ test_login_page_title2 STARTED ************
+01-26-2025 10:11:34 AM - custom_logger1 - test_login.py | INFO : ************ test_login_page_title PASSED ************
+01-26-2025 10:11:35 AM - custom_logger2 - test_login.py | INFO : ************ test_login_positive2 PASSED ************
+01-26-2025 10:11:35 AM - custom_logger1 - test_login.py | INFO : ************ test_negative_username PASSED ************
+01-26-2025 10:11:36 AM - custom_logger2 - test_login.py | INFO : ************ test_login_page_title2 PASSED ************
+01-26-2025 10:11:36 AM - custom_logger1 - test_login.py | INFO : ************ test_login_positive PASSED ************
+01-26-2025 10:12:12 AM - custom_logger2 - test_login.py | INFO : ************ test_negative_username2 STARTED ************
+01-26-2025 10:12:12 AM - custom_logger2 - test_login.py | INFO : ************ Test002Login ************
+
+01-26-2025 10:12:12 AM - custom_logger2 - test_login.py | INFO : ************ test_login_page_title2 STARTED ************
+01-26-2025 10:12:13 AM - custom_logger1 - test_login.py | INFO : ************ Test001Login ************
+
+01-26-2025 10:12:13 AM - custom_logger1 - test_login.py | INFO : ************ test_login_page_title STARTED ************
+01-26-2025 10:12:13 AM - custom_logger1 - test_login.py | INFO : ************ test_negative_username STARTED ************
+01-26-2025 10:12:14 AM - custom_logger2 - test_login.py | INFO : ************ test_login_positive2 STARTED ************
+01-26-2025 10:12:14 AM - custom_logger2 - test_login.py | INFO : ************ test_login_page_title2 PASSED ************
+01-26-2025 10:12:14 AM - custom_logger1 - test_login.py | INFO : ************ test_login_positive STARTED ************
+01-26-2025 10:12:14 AM - custom_logger2 - test_login.py | INFO : ************ test_negative_username2 PASSED ************
+01-26-2025 10:12:15 AM - custom_logger1 - test_login.py | INFO : ************ test_login_page_title PASSED ************
+01-26-2025 10:12:15 AM - custom_logger1 - test_login.py | INFO : ************ test_negative_username PASSED ************
+01-26-2025 10:12:16 AM - custom_logger2 - test_login.py | INFO : ************ test_login_positive2 PASSED ************
+01-26-2025 10:12:17 AM - custom_logger1 - test_login.py | INFO : ************ test_login_positive PASSED ************
+01-26-2025 10:16:00 AM - custom_logger2 - test_login.py | INFO : ************ test_negative_username2 STARTED ************
+01-26-2025 10:16:00 AM - custom_logger1 - test_login.py | INFO : ************ Test001Login ************
+
+01-26-2025 10:16:00 AM - custom_logger1 - test_login.py | INFO : ************ test_login_page_title STARTED ************
+01-26-2025 10:16:01 AM - custom_logger1 - test_login.py | INFO : ************ test_login_positive STARTED ************
+01-26-2025 10:16:01 AM - custom_logger2 - test_login.py | INFO : ************ Test002Login ************
+
+01-26-2025 10:16:01 AM - custom_logger2 - test_login.py | INFO : ************ test_login_page_title2 STARTED ************
+01-26-2025 10:16:01 AM - custom_logger1 - test_login.py | INFO : ************ test_negative_username STARTED ************
+01-26-2025 10:16:02 AM - custom_logger2 - test_login.py | INFO : ************ test_login_positive2 STARTED ************
+01-26-2025 10:16:02 AM - custom_logger2 - test_login.py | INFO : ************ test_negative_username2 PASSED ************
+01-26-2025 10:16:02 AM - custom_logger1 - test_login.py | INFO : ************ test_login_page_title PASSED ************
+01-26-2025 10:16:07 AM - custom_logger2 - test_login.py | INFO : ************ test_login_positive2 PASSED ************
+01-26-2025 10:16:08 AM - custom_logger2 - test_login.py | INFO : ************ test_login_page_title2 PASSED ************
+01-26-2025 10:16:08 AM - custom_logger1 - test_login.py | INFO : ************ test_negative_username PASSED ************
+01-26-2025 10:16:08 AM - custom_logger1 - test_login.py | INFO : ************ test_login_positive PASSED ************
+01-26-2025 10:19:58 AM - custom_logger1 - test_login.py | INFO : ************ Test001Login ************
+
+01-26-2025 10:19:58 AM - custom_logger1 - test_login.py | INFO : ************ test_login_page_title STARTED ************
+01-26-2025 10:19:59 AM - custom_logger2 - test_login.py | INFO : ************ test_negative_username2 STARTED ************
+01-26-2025 10:19:59 AM - custom_logger1 - test_login.py | INFO : ************ test_negative_username STARTED ************
+01-26-2025 10:19:59 AM - custom_logger1 - test_login.py | INFO : ************ test_login_positive STARTED ************
+01-26-2025 10:20:00 AM - custom_logger2 - test_login.py | INFO : ************ test_login_positive2 STARTED ************
+01-26-2025 10:20:00 AM - custom_logger2 - test_login.py | INFO : ************ Test002Login ************
+
+01-26-2025 10:20:00 AM - custom_logger2 - test_login.py | INFO : ************ test_login_page_title2 STARTED ************
+01-26-2025 10:20:00 AM - custom_logger1 - test_login.py | INFO : ************ test_login_page_title PASSED ************
+01-26-2025 10:20:00 AM - custom_logger2 - test_login.py | INFO : ************ test_negative_username2 PASSED ************
+01-26-2025 10:20:01 AM - custom_logger1 - test_login.py | INFO : ************ test_negative_username PASSED ************
+01-26-2025 10:20:01 AM - custom_logger1 - test_login.py | ERROR : ************ test_login_positive FAILED ************
+01-26-2025 10:20:02 AM - custom_logger2 - test_login.py | INFO : ************ test_login_page_title2 PASSED ************
+01-26-2025 10:20:02 AM - custom_logger2 - test_login.py | INFO : ************ test_login_positive2 PASSED ************
