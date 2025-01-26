@@ -8,5 +8,3 @@
 01-26-2025 09:46:48 AM - custom_logger - customLogger.py | ERROR : And non-ASCII stuff, too, like Øresund and Malmö
 01-26-2025 09:46:53 AM - custom_logger - customLogger.py | DEBUG : This message should go to the log file
 01-26-2025 09:46:53 AM - custom_logger - customLogger.py | INFO : So should this
-01-26-2025 09:46:53 AM - custom_logger - customLogger.py | WARNING : And this, too
-
